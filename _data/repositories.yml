@@ -2,3 +2,6 @@ github_users:
   - ajouellette
 
 github_repos:
+  - ajouellette/galaxy-topology
+  - ajouellette/critical-shells
+  - ajouellette/wordle-solver
