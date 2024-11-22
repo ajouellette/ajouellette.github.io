@@ -3,5 +3,6 @@ github_users:
 
 github_repos:
   - ajouellette/galaxy-topology
+  - ajouellette/nx2pt
   - ajouellette/critical-shells
   - ajouellette/wordle-solver
