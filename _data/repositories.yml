@@ -6,3 +6,5 @@ github_repos:
   - ajouellette/nx2pt
   - ajouellette/critical-shells
   - ajouellette/wordle-solver
+  - ajouellette/advent-of-code25
+  - ajouellette/nbody.rs
