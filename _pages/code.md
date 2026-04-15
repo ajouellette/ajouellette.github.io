@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /code/
-title: code
+title: Code
 description: Code that I've written for research / work / various random projects
 nav: true
 nav_order: 3

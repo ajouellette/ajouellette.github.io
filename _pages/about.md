@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: Physics Ph.D. student at the University of Illinois Urbana-Champaign
 
